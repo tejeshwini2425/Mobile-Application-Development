@@ -15,12 +15,6 @@ A simple Android application built using Java and Android Studio as part of our 
 - XML Layout
 - UI Animation
 
-## 👨‍💻 Team Members
-- 22BTDS192 – Yashwanth V  
-- 22BTDS193 – Udayashree J  
-- 22BTDS194 – Tejeshwini R  
-- 22BTDS195 – Mohammed Shakil K
-
 ## 📸 Screenshot
 ![App Screenshot](images/thumbnail.png)
 
